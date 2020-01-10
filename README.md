@@ -15,7 +15,7 @@
 |Tefe|AM|1304203|
 |Coruripe|AL|2702306|
 |Rio Largo|AL|2707701|
-|Castro Alves||2907301|
+|Castro Alves|BA|2907301|
 |Itaete|BA|2915007|
 |Itagi|BA|2915106|
 |Jaguaquara|BA|2917607|
