@@ -1,0 +1,3152 @@
+{
+    "1200203": {
+        "municipio": "Cruzeiro do Sul",
+        "uf": "AC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "1200252": {
+        "municipio": "Epitaciolandia",
+        "uf": "AC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "1200336": {
+        "municipio": "Mancio Lima",
+        "uf": "AC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "1200427": {
+        "municipio": "Rodrigues Alves",
+        "uf": "AC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "1200450": {
+        "municipio": "Senador Guiomard",
+        "uf": "AC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "1200609": {
+        "municipio": "Tarauaca",
+        "uf": "AC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "2702306": {
+        "municipio": "Coruripe",
+        "uf": "AL",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "2707701": {
+        "municipio": "Rio Largo",
+        "uf": "AL",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "1304203": {
+        "municipio": "Tefe",
+        "uf": "AM",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "2907301": {
+        "municipio": "Castro Alves",
+        "uf": "BA",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "2915007": {
+        "municipio": "Itaete",
+        "uf": "BA",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "2915106": {
+        "municipio": "Itagi",
+        "uf": "BA",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "2917607": {
+        "municipio": "Jaguaquara",
+        "uf": "BA",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "2919306": {
+        "municipio": "Lencois",
+        "uf": "BA",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "2920502": {
+        "municipio": "Maracas",
+        "uf": "BA",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "2923001": {
+        "municipio": "Nova Vicosa",
+        "uf": "BA",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "2924504": {
+        "municipio": "Pindai",
+        "uf": "BA",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3201159": {
+        "municipio": "Brejetuba",
+        "uf": "ES",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5201454": {
+        "municipio": "Aparecida do Rio Doce",
+        "uf": "GO",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5201504": {
+        "municipio": "Apore",
+        "uf": "GO",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5204300": {
+        "municipio": "Cacu",
+        "uf": "GO",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5205471": {
+        "municipio": "Chapadao do Ceu",
+        "uf": "GO",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5210802": {
+        "municipio": "Itaja",
+        "uf": "GO",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5211305": {
+        "municipio": "Itaruma",
+        "uf": "GO",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5212253": {
+        "municipio": "Lagoa Santa",
+        "uf": "GO",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5216304": {
+        "municipio": "Paranaiguara",
+        "uf": "GO",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3101607": {
+        "municipio": "Alfenas",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3102001": {
+        "municipio": "Alterosa",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3105301": {
+        "municipio": "Bandeira do Sul",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3105608": {
+        "municipio": "Barbacena",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3108404": {
+        "municipio": "Botelhos",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3114204": {
+        "municipio": "Carmo do Cajuru",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3114402": {
+        "municipio": "Carmo do Rio Claro",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3116605": {
+        "municipio": "Claudio",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3118007": {
+        "municipio": "Congonhas",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3118700": {
+        "municipio": "Coqueiral",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3121258": {
+        "municipio": "Delta",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3128303": {
+        "municipio": "Guaranesia",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3130200": {
+        "municipio": "Igaratinga",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3133600": {
+        "municipio": "Itapeva",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3133709": {
+        "municipio": "Itatiaiucu",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3133758": {
+        "municipio": "Itau de Minas",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3137205": {
+        "municipio": "Lagoa da Prata",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3138807": {
+        "municipio": "Luz",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3140001": {
+        "municipio": "Mariana",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3144607": {
+        "municipio": "Nepomuceno",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3145901": {
+        "municipio": "Ouro Branco",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3149606": {
+        "municipio": "Pequi",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3150703": {
+        "municipio": "Pirajuba",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3151602": {
+        "municipio": "Planura",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3151701": {
+        "municipio": "Poco Fundo",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3156908": {
+        "municipio": "Sacramento",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3159902": {
+        "municipio": "Santo Antonio do Amparo",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3160405": {
+        "municipio": "Santo Antonio do Monte",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3164605": {
+        "municipio": "Sao Sebastiao do Oeste",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3166907": {
+        "municipio": "Serrania",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3168101": {
+        "municipio": "Tapira",
+        "uf": "MG",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5001243": {
+        "municipio": "Aral Moreira",
+        "uf": "MS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5002001": {
+        "municipio": "Bataypora",
+        "uf": "MS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5003157": {
+        "municipio": "Coronel Sapucaia",
+        "uf": "MS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5003454": {
+        "municipio": "Deodapolis",
+        "uf": "MS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5003801": {
+        "municipio": "Fatima do Sul",
+        "uf": "MS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5004601": {
+        "municipio": "Itaquirai",
+        "uf": "MS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5005400": {
+        "municipio": "Maracaju",
+        "uf": "MS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5005681": {
+        "municipio": "Mundo Novo",
+        "uf": "MS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5006200": {
+        "municipio": "Nova Andradina",
+        "uf": "MS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5006259": {
+        "municipio": "Novo Horizonte do Sul",
+        "uf": "MS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5006903": {
+        "municipio": "Porto Murtinho",
+        "uf": "MS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5007406": {
+        "municipio": "Rio Verde de Mato Grosso",
+        "uf": "MS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5007554": {
+        "municipio": "Santa Rita do Pardo",
+        "uf": "MS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5007976": {
+        "municipio": "Taquarussu",
+        "uf": "MS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5100300": {
+        "municipio": "Alto Araguaia",
+        "uf": "MT",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5100409": {
+        "municipio": "Alto Garcas",
+        "uf": "MT",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5100805": {
+        "municipio": "Apiacas",
+        "uf": "MT",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5102686": {
+        "municipio": "Campos de Julio",
+        "uf": "MT",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5102702": {
+        "municipio": "Canarana",
+        "uf": "MT",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5103304": {
+        "municipio": "Comodoro",
+        "uf": "MT",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5103353": {
+        "municipio": "Confresa",
+        "uf": "MT",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5103379": {
+        "municipio": "Cotriguacu",
+        "uf": "MT",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5104609": {
+        "municipio": "Itiquira",
+        "uf": "MT",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5107180": {
+        "municipio": "Ribeirao Cascalheira",
+        "uf": "MT",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5107859": {
+        "municipio": "Sao Felix do Araguaia",
+        "uf": "MT",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5107875": {
+        "municipio": "Sapezal",
+        "uf": "MT",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5108352": {
+        "municipio": "Vale de Sao Domingos",
+        "uf": "MT",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "5108600": {
+        "municipio": "Vila Rica",
+        "uf": "MT",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4100202": {
+        "municipio": "Adrianopolis",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4100301": {
+        "municipio": "Agudos do Sul",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4100400": {
+        "municipio": "Almirante Tamandare",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4100608": {
+        "municipio": "Alto Parana",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4101002": {
+        "municipio": "Ampere",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4101903": {
+        "municipio": "Assai",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4102604": {
+        "municipio": "Barracao",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4102752": {
+        "municipio": "Bela Vista da Caroba",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4102901": {
+        "municipio": "Bituruna",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4103156": {
+        "municipio": "Bom Jesus do Sul",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4104253": {
+        "municipio": "Campo Magro",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4105201": {
+        "municipio": "Cerro Azul",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4105904": {
+        "municipio": "Colorado",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4106407": {
+        "municipio": "Cornelio Procopio",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4106803": {
+        "municipio": "Cruz Machado",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4107504": {
+        "municipio": "Engenheiro Beltrao",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4107652": {
+        "municipio": "Fazenda Rio Grande",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4107751": {
+        "municipio": "Figueira",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4107850": {
+        "municipio": "Flor da Serra do Sul",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4108502": {
+        "municipio": "General Carneiro",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4108601": {
+        "municipio": "Goioere",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4109500": {
+        "municipio": "Guaraquecaba",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4110656": {
+        "municipio": "Iracema do Oeste",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4112009": {
+        "municipio": "Jaguariaiva",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4112959": {
+        "municipio": "Juranda",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4113452": {
+        "municipio": "Lindoeste",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4113908": {
+        "municipio": "Mallet",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4114104": {
+        "municipio": "Mandaguacu",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4114302": {
+        "municipio": "Mandirituba",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4114401": {
+        "municipio": "Mangueirinha",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4116307": {
+        "municipio": "Munhoz de Melo",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4116703": {
+        "municipio": "Nova Aurora",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4117305": {
+        "municipio": "Ortigueira",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4117404": {
+        "municipio": "Ourizona",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4117602": {
+        "municipio": "Palmas",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4118402": {
+        "municipio": "Paranavai",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4118600": {
+        "municipio": "Paula Freitas",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4119004": {
+        "municipio": "Perola d Oeste",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4120804": {
+        "municipio": "Quatro Barras",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4120853": {
+        "municipio": "Quatro Pontes",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4122800": {
+        "municipio": "Salgado Filho",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4124020": {
+        "municipio": "Santa Tereza do Oeste",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4125308": {
+        "municipio": "Sao Jorge do Ivai",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4125605": {
+        "municipio": "Sao Mateus do Sul",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4125753": {
+        "municipio": "Sao Pedro do Iguacu",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4126009": {
+        "municipio": "Sao Sebastiao da Amoreira",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4126603": {
+        "municipio": "Siqueira Campos",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4127106": {
+        "municipio": "Telemaco Borba",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4127601": {
+        "municipio": "Tijucas do Sul",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4127809": {
+        "municipio": "Tomazina",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4128203": {
+        "municipio": "Uniao da Vitoria",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4128559": {
+        "municipio": "Vera Cruz do Oeste",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4128708": {
+        "municipio": "Vitorino",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4128500": {
+        "municipio": "Wenceslau Braz",
+        "uf": "PR",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3300225": {
+        "municipio": "Areal",
+        "uf": "RJ",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3300803": {
+        "municipio": "Cachoeiras de Macacu",
+        "uf": "RJ",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3301306": {
+        "municipio": "Casimiro de Abreu",
+        "uf": "RJ",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3301801": {
+        "municipio": "Engenheiro Paulo de Frontin",
+        "uf": "RJ",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3302502": {
+        "municipio": "Mage",
+        "uf": "RJ",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3302809": {
+        "municipio": "Mendes",
+        "uf": "RJ",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3303807": {
+        "municipio": "Parati",
+        "uf": "RJ",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3303955": {
+        "municipio": "Pinheiral",
+        "uf": "RJ",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3304201": {
+        "municipio": "Resende",
+        "uf": "RJ",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3304300": {
+        "municipio": "Rio Bonito",
+        "uf": "RJ",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3304508": {
+        "municipio": "Rio das Flores",
+        "uf": "RJ",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3305158": {
+        "municipio": "Sao Jose do Vale do Rio Preto",
+        "uf": "RJ",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3306107": {
+        "municipio": "Valenca",
+        "uf": "RJ",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4300646": {
+        "municipio": "Ametista do Sul",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4301107": {
+        "municipio": "Arroio dos Ratos",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4302451": {
+        "municipio": "Boqueirao do Leao",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4304002": {
+        "municipio": "Campo Novo",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4304358": {
+        "municipio": "Candiota",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4304630": {
+        "municipio": "Capao Da Canoa",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4305173": {
+        "municipio": "Cerro Grande do Sul",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4305801": {
+        "municipio": "Constantina",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4306007": {
+        "municipio": "Crissiumal",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4309100": {
+        "municipio": "Gramado",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4310439": {
+        "municipio": "Ipe",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4310850": {
+        "municipio": "Jaboticaba",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4311304": {
+        "municipio": "Lagoa Vermelha",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4312450": {
+        "municipio": "Morro Redondo",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4313037": {
+        "municipio": "Nova Esperanca do Sul",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4313706": {
+        "municipio": "Palmeira das Missoes",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4315602": {
+        "municipio": "Rio Grande",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4316006": {
+        "municipio": "Rolante",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4317806": {
+        "municipio": "Santo Augusto",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4318408": {
+        "municipio": "Sao Jeronimo",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4319372": {
+        "municipio": "Sao Pedro do Butia",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4320552": {
+        "municipio": "Sertao Santana",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4321402": {
+        "municipio": "Tenente Portela",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4321501": {
+        "municipio": "Torres",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4321907": {
+        "municipio": "Tres Passos",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4323507": {
+        "municipio": "Vista Alegre",
+        "uf": "RS",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4200051": {
+        "municipio": "Abdon Batista",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4200309": {
+        "municipio": "Agronomica",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4200408": {
+        "municipio": "Agua Doce",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4200507": {
+        "municipio": "Aguas de Chapeco",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4200606": {
+        "municipio": "Aguas Mornas",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4200705": {
+        "municipio": "Alfredo Wagner",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4200754": {
+        "municipio": "Alto Bela Vista",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4201000": {
+        "municipio": "Anita Garibaldi",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4201109": {
+        "municipio": "Anitapolis",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4201208": {
+        "municipio": "Antonio Carlos",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4201273": {
+        "municipio": "Arabuta",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4201505": {
+        "municipio": "Armazem",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4201653": {
+        "municipio": "Arvoredo",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4201802": {
+        "municipio": "Atalanta",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4202073": {
+        "municipio": "Balneario Gaivota",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4220000": {
+        "municipio": "Balneario Rincao",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4202131": {
+        "municipio": "Bela Vista do Toldo",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4202156": {
+        "municipio": "Belmonte",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4202503": {
+        "municipio": "Bom Jardim da Serra",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4202537": {
+        "municipio": "Bom Jesus",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4202453": {
+        "municipio": "Bombinhas",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4202800": {
+        "municipio": "Braco do Norte",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4203303": {
+        "municipio": "Campo Alegre",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4203600": {
+        "municipio": "Campos Novos",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4203907": {
+        "municipio": "Capinzal",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4204004": {
+        "municipio": "Catanduvas",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4204152": {
+        "municipio": "Celso Ramos",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4204194": {
+        "municipio": "Chapadao do Lageado",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4204251": {
+        "municipio": "Cocal Do Sul",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4204350": {
+        "municipio": "Cordilheira Alta",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4204400": {
+        "municipio": "Coronel Freitas",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4204558": {
+        "municipio": "Correia Pinto",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4204509": {
+        "municipio": "Corupa",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4204608": {
+        "municipio": "Criciuma",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4204756": {
+        "municipio": "Cunhatai",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4204806": {
+        "municipio": "Curitibanos",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4204905": {
+        "municipio": "Descanso",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4205001": {
+        "municipio": "Dionisio Cerqueira",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4205100": {
+        "municipio": "Dona Emma",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4205191": {
+        "municipio": "Ermo",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4205209": {
+        "municipio": "Erval Velho",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4205308": {
+        "municipio": "Faxinal Dos Guedes",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4205555": {
+        "municipio": "Frei Rogerio",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4205704": {
+        "municipio": "Garopaba",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4206108": {
+        "municipio": "Grao Para",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4206207": {
+        "municipio": "Gravatal",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4206405": {
+        "municipio": "Guaraciaba",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4206603": {
+        "municipio": "Guaruja do Sul",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4206702": {
+        "municipio": "Herval D Oeste",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4206751": {
+        "municipio": "Ibiam",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4206801": {
+        "municipio": "Ibicare",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4206900": {
+        "municipio": "Ibirama",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4207205": {
+        "municipio": "Imarui",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4207304": {
+        "municipio": "Imbituba",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4207403": {
+        "municipio": "Imbuia",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4207601": {
+        "municipio": "Ipira",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4207684": {
+        "municipio": "Ipuacu",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4207700": {
+        "municipio": "Ipumirim",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4207809": {
+        "municipio": "Irani",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4208005": {
+        "municipio": "Ita",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4208302": {
+        "municipio": "Itapema",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4208401": {
+        "municipio": "Itapiranga",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4208708": {
+        "municipio": "Jacinto Machado",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4208906": {
+        "municipio": "Jaragua do Sul",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4209003": {
+        "municipio": "Joacaba",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4209177": {
+        "municipio": "Jupia",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4209201": {
+        "municipio": "Lacerdopolis",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4209300": {
+        "municipio": "Lages",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4209409": {
+        "municipio": "Laguna",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4209458": {
+        "municipio": "Lajeado Grande",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4209854": {
+        "municipio": "Lindoia do Sul",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4210001": {
+        "municipio": "Luiz Alves",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4210035": {
+        "municipio": "Luzerna",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4210050": {
+        "municipio": "Macieira",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4210209": {
+        "municipio": "Major Gercino",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4210308": {
+        "municipio": "Major Vieira",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4210407": {
+        "municipio": "Maracaja",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4210506": {
+        "municipio": "Maravilha",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4210555": {
+        "municipio": "Marema",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4211009": {
+        "municipio": "Mondai",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4211058": {
+        "municipio": "Monte Carlo",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4211108": {
+        "municipio": "Monte Castelo",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4211207": {
+        "municipio": "Morro da Fumaca",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4211256": {
+        "municipio": "Morro Grande",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4211306": {
+        "municipio": "Navegantes",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4211405": {
+        "municipio": "Nova Erechim",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4211504": {
+        "municipio": "Nova Trento",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4211603": {
+        "municipio": "Nova Veneza",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4211652": {
+        "municipio": "Novo Horizonte",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4211702": {
+        "municipio": "Orleans",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4211751": {
+        "municipio": "Otacilio Costa",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4211801": {
+        "municipio": "Ouro",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4211876": {
+        "municipio": "Paial",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4212106": {
+        "municipio": "Palmitos",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4212205": {
+        "municipio": "Papanduva",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4212254": {
+        "municipio": "Passo de Torres",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4212270": {
+        "municipio": "Passos Maia",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4212304": {
+        "municipio": "Paulo Lopes",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4212403": {
+        "municipio": "Pedras Grandes",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4212502": {
+        "municipio": "Penha",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4212601": {
+        "municipio": "Peritiba",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4212700": {
+        "municipio": "Petrolandia",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4213104": {
+        "municipio": "Piratuba",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4213302": {
+        "municipio": "Ponte Alta",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4213351": {
+        "municipio": "Ponte Alta do Norte",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4213401": {
+        "municipio": "Ponte Serrada",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4213500": {
+        "municipio": "Porto Belo",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4213609": {
+        "municipio": "Porto Uniao",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4213708": {
+        "municipio": "Pouso Redondo",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4214201": {
+        "municipio": "Quilombo",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4214300": {
+        "municipio": "Rancho Queimado",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4214805": {
+        "municipio": "Rio do Sul",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4215356": {
+        "municipio": "Saltinho",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4215406": {
+        "municipio": "Salto Veloso",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4215455": {
+        "municipio": "Sangao",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4215505": {
+        "municipio": "Santa Cecilia",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4215554": {
+        "municipio": "Santa Helena",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4215604": {
+        "municipio": "Santa Rosa de Lima",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4215679": {
+        "municipio": "Santa Terezinha",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4215703": {
+        "municipio": "Santo Amaro da Imperatriz",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4215901": {
+        "municipio": "Sao Bonifacio",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4216008": {
+        "municipio": "Sao Carlos",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4216107": {
+        "municipio": "Sao Domingos",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4216305": {
+        "municipio": "Sao Joao Batista",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4216354": {
+        "municipio": "Sao Joao do Itaperiu",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4216255": {
+        "municipio": "Sao Joao Do Oeste",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4216404": {
+        "municipio": "Sao Joao do Sul",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4216503": {
+        "municipio": "Sao Joaquim",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4216602": {
+        "municipio": "Sao Jose",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4216800": {
+        "municipio": "Sao Jose do Cerrito",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4216909": {
+        "municipio": "Sao Lourenco do Oeste",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4217006": {
+        "municipio": "Sao Ludgero",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4217105": {
+        "municipio": "Sao Martinho",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4217204": {
+        "municipio": "Sao Miguel do Oeste",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4217402": {
+        "municipio": "Schroeder",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4217501": {
+        "municipio": "Seara",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4217550": {
+        "municipio": "Serra Alta",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4217600": {
+        "municipio": "Sideropolis",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4217709": {
+        "municipio": "Sombrio",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4217808": {
+        "municipio": "Taio",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4217907": {
+        "municipio": "Tangara",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4218004": {
+        "municipio": "Tijucas",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4218350": {
+        "municipio": "Treviso",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4218400": {
+        "municipio": "Treze de Maio",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4218509": {
+        "municipio": "Treze Tilias",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4218608": {
+        "municipio": "Trombudo Central",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4218756": {
+        "municipio": "Tunapolis",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4218806": {
+        "municipio": "Turvo",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4218855": {
+        "municipio": "Uniao do Oeste",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4219002": {
+        "municipio": "Urussanga",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4219101": {
+        "municipio": "Vargeao",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4219176": {
+        "municipio": "Vargem Bonita",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4219200": {
+        "municipio": "Vidal Ramos",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4219507": {
+        "municipio": "Xanxere",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4219606": {
+        "municipio": "Xavantina",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4219705": {
+        "municipio": "Xaxim",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "4219853": {
+        "municipio": "Zortea",
+        "uf": "SC",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3502002": {
+        "municipio": "Analandia",
+        "uf": "SP",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3510104": {
+        "municipio": "Candido Rodrigues",
+        "uf": "SP",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3512704": {
+        "municipio": "Corumbatai",
+        "uf": "SP",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3513603": {
+        "municipio": "Cunha",
+        "uf": "SP",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3516853": {
+        "municipio": "Gaviao Peixoto",
+        "uf": "SP",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3518859": {
+        "municipio": "Guatapara",
+        "uf": "SP",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3524907": {
+        "municipio": "Jambeiro",
+        "uf": "SP",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3530508": {
+        "municipio": "Mococa",
+        "uf": "SP",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3531308": {
+        "municipio": "Monte Alto",
+        "uf": "SP",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3532405": {
+        "municipio": "Nazare Paulista",
+        "uf": "SP",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3534302": {
+        "municipio": "Orlandia",
+        "uf": "SP",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3546306": {
+        "municipio": "Santa Cruz das Palmeiras",
+        "uf": "SP",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3547601": {
+        "municipio": "Santa Rosa de Viterbo",
+        "uf": "SP",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3548203": {
+        "municipio": "Santo Antonio do Pinhal",
+        "uf": "SP",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    },
+    "3556909": {
+        "municipio": "Vista Alegre do Alto",
+        "uf": "SP",
+        "homologacao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-test-ws\/nfseWS",
+        "producao": "http:\/\/e-gov.betha.com.br\/e-nota-contribuinte-ws\/nfseWS",
+        "version": "2.02",
+        "msgns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws",
+        "soapns": "http:\/\/www.betha.com.br\/e-nota-contribuinte-ws"
+    }
+}
