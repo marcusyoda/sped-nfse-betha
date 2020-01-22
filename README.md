@@ -2,7 +2,7 @@
 
 ## Nada ainda apenas iniciação
 
-## Este pacote atende o provedor Fly-e-Nota Betha v1.0 (exclusivamente)
+## Este pacote atende o provedor Fly-e-Nota Betha v2.02 (exclusivamente)
 
 ## Municípios atendidos pelo provedor
 
