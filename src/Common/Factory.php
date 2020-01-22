@@ -311,16 +311,16 @@ class Factory
         $this->dom->addChild(
             $node,
             "CodigoCnae",
-            isset($serv->codigocnae) 
-                ? $serv->codigocnae 
+            isset($serv->codigocnae)
+                ? $serv->codigocnae
                 : null,
             false
         );
         $this->dom->addChild(
             $node,
             "CodigoTributacaoMunicipio",
-            isset($serv->codigotributacaomunicipio) 
-                ? $serv->codigotributacaomunicipio 
+            isset($serv->codigotributacaomunicipio)
+                ? $serv->codigotributacaomunicipio
                 : null,
             false
         );
@@ -339,7 +339,7 @@ class Factory
         $this->dom->addChild(
             $node,
             "CodigoPais",
-            isset($serv->codigopais) 
+            isset($serv->codigopais)
                 ? $serv->codigopais
                 : null,
             false
@@ -353,7 +353,7 @@ class Factory
         $this->dom->addChild(
             $node,
             "MunicipioIncidencia",
-            isset($serv->municipioincidencia) 
+            isset($serv->municipioincidencia)
                 ? $serv->municipioincidencia
                 : null,
             false
@@ -361,7 +361,7 @@ class Factory
         $this->dom->addChild(
             $node,
             "NumeroProcesso",
-            isset($serv->numeroprocesso) 
+            isset($serv->numeroprocesso)
                 ? $serv->numeroprocesso
                 : null,
             false

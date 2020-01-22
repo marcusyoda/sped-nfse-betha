@@ -78,8 +78,8 @@ class Signer
         if ($tagname == 'LoteRps') {
             //header("Content-type: text/xml");
             //echo $dom->saveXML($dom->documentElement);
-            //die;        
-        }    
+            //die;
+        }
         return "" . $dom->saveXML($dom->documentElement);
     }
     
@@ -157,7 +157,6 @@ class Signer
         $x509DataNode->appendChild($x509CertificateNode);
 
         return $dom;
-        
     }
 
     /**

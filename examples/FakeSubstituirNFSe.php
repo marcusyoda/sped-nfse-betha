@@ -104,7 +104,7 @@ try {
 
     $rps = new Rps($std);
 
-    $response = $tools->substituirNfse($numero, $tools::CANCEL_SERVICO_NAO_CONCLUIDO, $rps);
+    $response = $tools->substituirNfse($numero, $rps, $tools::CANCEL_SERVICO_NAO_CONCLUIDO);
 
     echo FakePretty::prettyPrint($response, '');
     

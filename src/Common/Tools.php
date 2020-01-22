@@ -23,7 +23,6 @@ use NFePHP\NFSeBetha\Common\Signer;
 use NFePHP\NFSeBetha\Common\Soap\SoapInterface;
 use NFePHP\NFSeBetha\Common\Soap\SoapCurl;
 
-
 class Tools
 {
     public $lastRequest;
@@ -63,7 +62,7 @@ class Tools
             $this->prestador .= "<Cnpj>{$this->config->cnpj}</Cnpj>";
         } else {
             $this->prestador .= "<Cpf>{$this->config->cpf}</Cpf>";
-        }    
+        }
         $this->prestador .= "</CpfCnpj>"
             . "<InscricaoMunicipal>{$this->config->im}</InscricaoMunicipal>"
             . "</Prestador>";
@@ -205,7 +204,7 @@ class Tools
             . "</soapenv:Body>"
             . "</soapenv:Envelope>";
         
-        /*            
+        /*
         $dom = new Dom('1.0', 'UTF-8');
         $dom->preserveWhiteSpace = false;
         $dom->formatOutput = false;
@@ -221,7 +220,6 @@ class Tools
         return $dom->saveXML($dom->documentElement);
          * 
          */
-        return $env;    
+        return $env;
     }
-
 }

@@ -61,7 +61,7 @@ class Tools extends BaseTools
             $pedido .= "<Cnpj>{$this->config->cnpj}</Cnpj>";
         } else {
             $pedido .= "<Cpf>{$this->config->cpf}</Cpf>";
-        }    
+        }
         $pedido .= "</CpfCnpj>"
             . "<InscricaoMunicipal>{$this->config->im}</InscricaoMunicipal>"
             . "<CodigoMunicipio>{$this->config->cmun}</CodigoMunicipio>"
@@ -85,37 +85,39 @@ class Tools extends BaseTools
      * @param RpsInterface $novorps
      * @return string
      */
-    public function substituirNfse($numero_nfse_a_cancelar, $codigo = self::CANCEL_ERRO_EMISSAO, RpsInterface $novorps)
-    {
+    public function substituirNfse(
+        $numero_nfse_a_cancelar,
+        RpsInterface $novorps,
+        $codigo = self::CANCEL_ERRO_EMISSAO
+    ) {
         $operation = "SubstituirNfse";
         $novorps->config($this->config);
         $rpssigned = $this->sign($novorps->render(), 'InfDeclaracaoPrestacaoServico', 'Id');
         $pedido = "<Pedido>"
-	    . "<InfPedidoCancelamento Id=\"cancel\">"
-	    . "<IdentificacaoNfse>"
+        . "<InfPedidoCancelamento Id=\"cancel\">"
+        . "<IdentificacaoNfse>"
             . "<Numero>{$numero_nfse_a_cancelar}</Numero>"
-	    . "<CpfCnpj>"
-	    . "<Cnpj>{$this->config->cnpj}</Cnpj>"
-	    . "</CpfCnpj>"
-	    . "<InscricaoMunicipal>{$this->config->im}</InscricaoMunicipal>"
-	    . "<CodigoMunicipio>{$this->config->cmun}</CodigoMunicipio>"
-	    . "</IdentificacaoNfse>"
-	    . "<CodigoCancelamento>2</CodigoCancelamento>"
-	    . "</InfPedidoCancelamento>"
-	    . "</Pedido>";
-        $pedidosigned = $this->sign($pedido, 'InfPedidoCancelamento', 'Id');      
+        . "<CpfCnpj>"
+        . "<Cnpj>{$this->config->cnpj}</Cnpj>"
+        . "</CpfCnpj>"
+        . "<InscricaoMunicipal>{$this->config->im}</InscricaoMunicipal>"
+        . "<CodigoMunicipio>{$this->config->cmun}</CodigoMunicipio>"
+        . "</IdentificacaoNfse>"
+        . "<CodigoCancelamento>2</CodigoCancelamento>"
+        . "</InfPedidoCancelamento>"
+        . "</Pedido>";
+        $pedidosigned = $this->sign($pedido, 'InfPedidoCancelamento', 'Id');
         
         $message = "<SubstituirNfseEnvio xmlns=\"{$this->wsobj->msgns}\">"
             . "<SubstituicaoNfse Id=\"subst\">"
             . $pedidosigned
             . $rpssigned
-	    . "</SubstituicaoNfse>"
+        . "</SubstituicaoNfse>"
             ."</SubstituirNfseEnvio>";
         
         $content = $this->sign($message, 'SubstituicaoNfse', 'Id');
         Validator::isValid($content, $this->xsdpath);
         return $this->send($content, $operation);
-        
     }
     
     /**
@@ -155,8 +157,8 @@ class Tools extends BaseTools
         }
         if (!empty($params->data_emissao_ini) && !empty($params->data_emissao_fim)) {
             $content .= "<PeriodoEmissao>"
-		. "<DataInicial>{$params->data_emissao_ini}</DataInicial>"
-		. "<DataFinal>{$params->data_emissao_fim}</DataFinal>"
+            . "<DataInicial>{$params->data_emissao_ini}</DataInicial>"
+            . "<DataFinal>{$params->data_emissao_fim}</DataFinal>"
                 . "</PeriodoEmissao>";
         } else {
             if (!empty($params->competencia_ini) && !empty($params->competencia_fim)) {
@@ -165,32 +167,32 @@ class Tools extends BaseTools
                     . "<DataFinal>{$params->competencia_fim}</DataFinal>"
                     . "</PeriodoCompetencia>";
             }
-        }    
+        }
         if (!empty($params->tomador)) {
             $content .= "<Tomador>"
-		. "<CpfCnpj>";
+            . "<CpfCnpj>";
             if (!empty($params->tomador->cnpj)) {
-		$content .= "<Cnpj>{$params->tomador->cnpj}</Cnpj>";
+                $content .= "<Cnpj>{$params->tomador->cnpj}</Cnpj>";
             } else {
                 $content .= "<Cpf>{$params->tomador->cpf}</Cpf>";
-            }    
+            }
             $content .= "</CpfCnpj>"
-		. "<InscricaoMunicipal>{$params->tomador->im}</InscricaoMunicipal>"
+            . "<InscricaoMunicipal>{$params->tomador->im}</InscricaoMunicipal>"
                 . "</Tomador>";
         }
         if (!empty($params->intermediario)) {
             $content .= "<Intermediario>"
-		. "<CpfCnpj>";
+            . "<CpfCnpj>";
             if (!empty($params->intermediario->cnpj)) {
-		$content .= "<Cnpj>{$params->intermediario->cnpj}</Cnpj>";
+                $content .= "<Cnpj>{$params->intermediario->cnpj}</Cnpj>";
             } else {
                 $content .= "<Cpf>{$params->intermediario->cpf}</Cpf>";
-            }    
+            }
             $content .= "</CpfCnpj>"
-		. "<InscricaoMunicipal>{$params->intermediario->im}</InscricaoMunicipal>"
+            . "<InscricaoMunicipal>{$params->intermediario->im}</InscricaoMunicipal>"
                 . "</Intermediario>";
-        }    
-	$content .= "<Pagina>{$params->pagina}</Pagina>"
+        }
+        $content .= "<Pagina>{$params->pagina}</Pagina>"
             . "</ConsultarNfseServicoPrestadoEnvio>";
         Validator::isValid($content, $this->xsdpath);
         return $this->send($content, $operation);
@@ -215,17 +217,17 @@ class Tools extends BaseTools
             $content .= "<Cnpj>{$this->config->cnpj}</Cnpj>";
         } else {
             $content .= "<Cpf>{$this->config->cpf}</Cpf>";
-        }    
+        }
         $content .= "</CpfCnpj>"
             . "<InscricaoMunicipal>{$this->config->im}</InscricaoMunicipal>"
             . "</Consulente>";
         if (!empty($params->numero)) {
             $content .= "<NumeroNfse>{$params->numero}</NumeroNfse>";
-        }    
+        }
         if (!empty($params->data_emissao_ini) && !empty($params->data_emissao_fim)) {
             $content .= "<PeriodoEmissao>"
-		. "<DataInicial>{$params->data_emissao_ini}</DataInicial>"
-		. "<DataFinal>{$params->data_emissao_fim}</DataFinal>"
+            . "<DataInicial>{$params->data_emissao_ini}</DataInicial>"
+            . "<DataFinal>{$params->data_emissao_fim}</DataFinal>"
                 . "</PeriodoEmissao>";
         } else {
             if (!empty($params->competencia_ini) && !empty($params->competencia_fim)) {
@@ -234,34 +236,34 @@ class Tools extends BaseTools
                     . "<DataFinal>{$params->competencia_fim}</DataFinal>"
                     . "</PeriodoCompetencia>";
             }
-        }     
-	if (!empty($params->prestador)) {
+        }
+        if (!empty($params->prestador)) {
             $content .= "<Prestador>"
-		. "<CpfCnpj>";
+            . "<CpfCnpj>";
             if (!empty($params->prestador->cnpj)) {
-		$content .= "<Cnpj>{$params->prestador->cnpj}</Cnpj>";
+                $content .= "<Cnpj>{$params->prestador->cnpj}</Cnpj>";
             } else {
                 $content .= "<Cpf>{$params->prestador->cpf}</Cpf>";
-            }    
-            $content .= "</CpfCnpj>"
-		. "<InscricaoMunicipal>{$params->prestador->im}</InscricaoMunicipal>"
+            }
+                $content .= "</CpfCnpj>"
+            . "<InscricaoMunicipal>{$params->prestador->im}</InscricaoMunicipal>"
                 . "</Prestador>";
         }
         if (!empty($params->intermediario)) {
             $content .= "<Intermediario>"
-		. "<CpfCnpj>";
+            . "<CpfCnpj>";
             if (!empty($params->intermediario->cnpj)) {
-		$content .= "<Cnpj>{$params->intermediario->cnpj}</Cnpj>";
+                $content .= "<Cnpj>{$params->intermediario->cnpj}</Cnpj>";
             } else {
                 $content .= "<Cpf>{$params->intermediario->cpf}</Cpf>";
-            }    
+            }
             $content .= "</CpfCnpj>"
-		. "<InscricaoMunicipal>{$params->intermediario->im}</InscricaoMunicipal>"
+            . "<InscricaoMunicipal>{$params->intermediario->im}</InscricaoMunicipal>"
                 . "</Intermediario>";
-        }    
-	$content .= "<Pagina>{$params->pagina}</Pagina>"
+        }
+        $content .= "<Pagina>{$params->pagina}</Pagina>"
             . "</ConsultarNfseServicoTomadoEnvio>";
-	Validator::isValid($content, $this->xsdpath);
+        Validator::isValid($content, $this->xsdpath);
         return $this->send($content, $operation);
     }
     
@@ -277,8 +279,8 @@ class Tools extends BaseTools
         $operation = 'ConsultarNfseFaixa';
         $content = "<ConsultarNfseFaixaEnvio xmlns=\"{$this->wsobj->msgns}\">"
             . $this->prestador
-	    . "<Faixa>"
-	    . "<NumeroNfseInicial>{$numero_ini}</NumeroNfseInicial>"
+        . "<Faixa>"
+        . "<NumeroNfseInicial>{$numero_ini}</NumeroNfseInicial>"
             . "<NumeroNfseFinal>{$numero_fim}</NumeroNfseFinal>"
             . "</Faixa>"
             . "<Pagina>{$pagina}</Pagina>"
@@ -298,12 +300,12 @@ class Tools extends BaseTools
     {
         $operation = "ConsultarNfseRps";
         $content = "<ConsultarNfseRpsEnvio xmlns=\"{$this->wsobj->msgns}\">"
-	. "<IdentificacaoRps>"
-	. "<Numero>{$numero}</Numero>"
-	. "<Serie>{$serie}</Serie>"
-	. "<Tipo>{$tipo}</Tipo>"
-	. "</IdentificacaoRps>"
-	. $this->prestador
+        . "<IdentificacaoRps>"
+        . "<Numero>{$numero}</Numero>"
+        . "<Serie>{$serie}</Serie>"
+        . "<Tipo>{$tipo}</Tipo>"
+        . "</IdentificacaoRps>"
+        . $this->prestador
         . "</ConsultarNfseRpsEnvio>";
         Validator::isValid($content, $this->xsdpath);
         return $this->send($content, $operation);
