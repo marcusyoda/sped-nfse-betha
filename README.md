@@ -463,7 +463,6 @@ Caso você encontre algum problema relativo a segurança, por favor envie um ema
 ## Credits
 
 Roberto L. Machado (owner and developer)
-Chrystian Toigo (admin and developer)
 
 ## License
 
