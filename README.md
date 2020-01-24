@@ -386,7 +386,7 @@
 - Tanto a emissão através do portal ou via webservice, não utilizam o código de tributação do município, entretanto, caso informado será gerado no XML.
 - O "Código de Tributação do Município" é um código proprietário de cada município, ou seja, cada município tem o seu, não existe um padrão, sendo assim é necessário contatar o município para identificar qual a codificação utilizada.  
 - Algumas prefeituras adotam o codificação da lista de serviço da Lei Complementar 116/03 ampliada, outras adotam o código CNAE.
-- Acentuação muitas vezes causa problema de rejeição no servidor. Devido a isso está sendo removido os acentos do RPS.
+- Acentuação muitas vezes causa problema de rejeição no servidor. Devido a isso deverão ser removidos os acentos dos campos RPS.
 
 
 ## Dependências
