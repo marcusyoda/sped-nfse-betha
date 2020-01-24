@@ -105,7 +105,7 @@ try {
     $arps[] = new Rps($std);
 
     $lote = '123456';
-    $response = $tools->recepcionarLoteRps($arps, $lote);
+    $response = $tools->recepcionarLoteRps($arps, $lote);  //METODO ASSINCRONO
 
     echo FakePretty::prettyPrint($response, '');
 } catch (\Exception $e) {

@@ -6,7 +6,7 @@ require_once '../bootstrap.php';
 
 use NFePHP\Common\Certificate;
 use NFePHP\NFSeBetha\Tools;
-use \NFePHP\NFSeBetha\Rps;
+use NFePHP\NFSeBetha\Rps;
 use NFePHP\NFSeBetha\Common\Soap\SoapFake;
 use NFePHP\NFSeBetha\Common\FakePretty;
 
@@ -17,7 +17,7 @@ try {
         'im'    => '1733160024',
         'cmun'  => '4204608', //ira determinar as urls e outros dados
         'razao' => 'Empresa Test Ltda',
-        'tpamb' => 2 //1-producao, 2-homologacao
+        'tpamb' => 2
     ];
 
     $configJson = json_encode($config);
@@ -32,7 +32,8 @@ try {
     $tools = new Tools($configJson, $cert);
     $tools->loadSoapClass($soap);
 
-    
+    $arps = [];
+
     $std = new \stdClass();
     $std->version = '2.02'; //false
     $std->dataemissao = '2018-10-31'; //false
@@ -43,8 +44,8 @@ try {
     $std->incentivofiscal = 2; // true
 
     $std->identificacaorps = new \stdClass(); //false
-    $std->identificacaorps->numero = 11;
-    $std->identificacaorps->serie = '1';
+    $std->identificacaorps->numero = 1;
+    $std->identificacaorps->serie = 'A1';
     $std->identificacaorps->tipo = 1;
 
     $std->servico = new \stdClass(); //true
@@ -101,15 +102,12 @@ try {
     $std->construcaocivil->codigoobra = '1234'; //false
     $std->construcaocivil->art = '1234'; //true
 
-    $rps = new Rps($std);
-    
-    $numero_cancelar = '2018'; //numero de NFSe anterior que será cancelada e substitituida pelo novo RPS
-    
-    $response = $tools->substituirNfse($numero_rps_cancelar, $rps, $tools::CANCEL_ERRO_EMISSAO);
+    $arps[] = new Rps($std);
+
+    $lote = '123456';
+    $response = $tools->recepcionarRps($arps, $lote); //METODO SINCRONO
 
     echo FakePretty::prettyPrint($response, '');
-    
 } catch (\Exception $e) {
     echo $e->getMessage();
 }
-
