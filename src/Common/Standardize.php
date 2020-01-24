@@ -36,19 +36,25 @@ class Standardize
      */
     public $rootTagList = [
         'CancelarNfseEnvio',
+        'SubstituirNfseEnvio',
         'ConsultarLoteRpsEnvio',
         'ConsultarNfseEnvio',
         'ConsultarNfseFaixaEnvio',
+        'ConsultarNfseServicoPrestadoEnvio',
+        'ConsultarNfseServicoTomadoEnvio',
         'ConsultarNfseRpsEnvio',
-        'EnviarLoteRpsEnvio',
+        'EnviarLoteRpsSincronoEnvio',
         'GerarNfseEnvio',
         'CancelarNfseResposta',
+        'SubstituirNfseResposta',
         'ConsultarLoteRpsResposta',
         'ConsultarNfseResposta',
         'ConsultarNfseFaixaResposta',
+        'ConsultarNfseServicoPrestadoResposta',
+        'ConsultarNfseServicoTomadoResposta',
         'ConsultarNfseRpsResposta',
+        'EnviarLoteRpsSincronoResposta',
         'EnviarLoteRpsResposta',
-        'GerarNfseEnvio',
         'GerarNfseResposta',
         'RPS'
     ];

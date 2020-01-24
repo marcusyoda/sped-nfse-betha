@@ -19,6 +19,7 @@ use NFePHP\NFSeBetha\Common\Tools as BaseTools;
 use NFePHP\NFSeBetha\RpsInterface;
 use NFePHP\Common\Certificate;
 use NFePHP\Common\Validator;
+use NFePHP\NFSeBetha\Common\Signer;
 
 class Tools extends BaseTools
 {
@@ -69,11 +70,23 @@ class Tools extends BaseTools
             . "<CodigoCancelamento>$codigo</CodigoCancelamento>"
             . "</InfPedidoCancelamento>"
             . "</Pedido>";
-        
-        $signed = $this->sign($pedido, 'InfPedidoCancelamento', 'Id');
         $content = "<CancelarNfseEnvio xmlns=\"{$this->wsobj->msgns}\">"
-            . $signed
+            . $pedido
             . "</CancelarNfseEnvio>";
+        $content = Signer::sign(
+            $this->certificate,
+            $content,
+            'InfPedidoCancelamento',
+            'Id',
+            OPENSSL_ALGO_SHA1,
+            [true,false,null,null],
+            'Pedido'
+        );
+        $content = str_replace(
+            ['<?xml version="1.0"?>', '<?xml version="1.0" encoding="UTF-8"?>'],
+            '',
+            $content
+        );
         Validator::isValid($content, $this->xsdpath);
         return $this->send($content, $operation);
     }
@@ -92,7 +105,7 @@ class Tools extends BaseTools
     ) {
         $operation = "SubstituirNfse";
         $novorps->config($this->config);
-        $rpssigned = $this->sign($novorps->render(), 'InfDeclaracaoPrestacaoServico', 'Id');
+
         $pedido = "<Pedido>"
         . "<InfPedidoCancelamento Id=\"cancel\">"
         . "<IdentificacaoNfse>"
@@ -103,19 +116,49 @@ class Tools extends BaseTools
         . "<InscricaoMunicipal>{$this->config->im}</InscricaoMunicipal>"
         . "<CodigoMunicipio>{$this->config->cmun}</CodigoMunicipio>"
         . "</IdentificacaoNfse>"
-        . "<CodigoCancelamento>2</CodigoCancelamento>"
+        . "<CodigoCancelamento>{$codigo}</CodigoCancelamento>"
         . "</InfPedidoCancelamento>"
         . "</Pedido>";
-        $pedidosigned = $this->sign($pedido, 'InfPedidoCancelamento', 'Id');
         
-        $message = "<SubstituirNfseEnvio xmlns=\"{$this->wsobj->msgns}\">"
+        $content = "<SubstituirNfseEnvio xmlns=\"{$this->wsobj->msgns}\">"
             . "<SubstituicaoNfse Id=\"subst\">"
-            . $pedidosigned
-            . $rpssigned
+            . $pedido
+            . $novorps->render()
         . "</SubstituicaoNfse>"
             ."</SubstituirNfseEnvio>";
         
-        $content = $this->sign($message, 'SubstituicaoNfse', 'Id');
+        $content = Signer::sign(
+            $this->certificate,
+            $content,
+            'InfDeclaracaoPrestacaoServico',
+            'Id',
+            OPENSSL_ALGO_SHA1,
+            [true,false,null,null],
+            'Rps'
+        );
+        $content = Signer::sign(
+            $this->certificate,
+            $content,
+            'InfPedidoCancelamento',
+            'Id',
+            OPENSSL_ALGO_SHA1,
+            [true,false,null,null],
+            'Pedido'
+        );
+        $content = Signer::sign(
+            $this->certificate,
+            $content,
+            'SubstituicaoNfse',
+            'Id',
+            OPENSSL_ALGO_SHA1,
+            [true,false,null,null],
+            'SubstituirNfseEnvio'
+        );
+        $content = str_replace(
+            ['<?xml version="1.0"?>', '<?xml version="1.0" encoding="UTF-8"?>'],
+            '',
+            $content
+        );
         Validator::isValid($content, $this->xsdpath);
         return $this->send($content, $operation);
     }
@@ -147,7 +190,7 @@ class Tools extends BaseTools
     public function consultarNfsePrestado($params)
     {
         $operation = 'ConsultarNfseServicoPrestado';
-        if (!empty($params->pagina)) {
+        if (empty($params->pagina)) {
             $params->pagina = 1;
         }
         $content = "<ConsultarNfseServicoPrestadoEnvio xmlns=\"{$this->wsobj->msgns}\">"
@@ -206,10 +249,9 @@ class Tools extends BaseTools
     public function consultarNfseTomado($params)
     {
         $operation = 'ConsultarNfseServicoTomado';
-        if (!empty($params->pagina)) {
+        if (empty($params->pagina)) {
             $params->pagina = 1;
         }
-        
         $content  = "<ConsultarNfseServicoTomadoEnvio xmlns=\"{$this->wsobj->msgns}\">"
             . "<Consulente>"
             . "<CpfCnpj>";
@@ -298,7 +340,7 @@ class Tools extends BaseTools
      */
     public function consultarNfseRps($numero, $serie, $tipo)
     {
-        $operation = "ConsultarNfseRps";
+        $operation = "ConsultarNfsePorRps";
         $content = "<ConsultarNfseRpsEnvio xmlns=\"{$this->wsobj->msgns}\">"
         . "<IdentificacaoRps>"
         . "<Numero>{$numero}</Numero>"
@@ -318,7 +360,7 @@ class Tools extends BaseTools
      * @return string
      * @throws \Exception
      */
-    public function recepcionarLoteRps($arps, $lote)
+    public function recepcionarRps($arps, $lote)
     {
         $operation = 'RecepcionarLoteRpsSincrono';
         $no_of_rps_in_lot = count($arps);
@@ -328,14 +370,13 @@ class Tools extends BaseTools
         $content = '';
         foreach ($arps as $rps) {
             $rps->config($this->config);
-            $xmlsigned = $this->sign($rps->render(), 'InfDeclaracaoPrestacaoServico', 'Id');
-            $content .= $xmlsigned;
+            $content .= $rps->render();
         }
         $contentmsg = "<EnviarLoteRpsSincronoEnvio xmlns=\"{$this->wsobj->msgns}\">"
             . "<LoteRps Id=\"lote{$lote}\" versao=\"{$this->wsobj->version}\">"
             . "<NumeroLote>$lote</NumeroLote>"
             . "<CpfCnpj>"
-            . "<Cnpj>" . $this->config->cnpj . "</Cnpj>"
+            . "<Cnpj>{$this->config->cnpj}</Cnpj>"
             . "</CpfCnpj>"
             . "<InscricaoMunicipal>" . $this->config->im . "</InscricaoMunicipal>"
             . "<QuantidadeRps>$no_of_rps_in_lot</QuantidadeRps>"
@@ -344,7 +385,88 @@ class Tools extends BaseTools
             . "</ListaRps>"
             . "</LoteRps>"
             . "</EnviarLoteRpsSincronoEnvio>";
-        $content = $this->sign($contentmsg, 'LoteRps', 'Id');
+        $content = Signer::sign(
+            $this->certificate,
+            $contentmsg,
+            'InfDeclaracaoPrestacaoServico',
+            'Id',
+            OPENSSL_ALGO_SHA1,
+            [true,false,null,null],
+            'Rps'
+        );
+        $content = Signer::sign(
+            $this->certificate,
+            $content,
+            'LoteRps',
+            'Id',
+            OPENSSL_ALGO_SHA1,
+            [true,false,null,null],
+            'EnviarLoteRpsSincronoEnvio'
+        );
+        $content = str_replace(
+            ['<?xml version="1.0"?>', '<?xml version="1.0" encoding="UTF-8"?>'],
+            '',
+            $content
+        );
+        Validator::isValid($content, $this->xsdpath);
+        return $this->send($content, $operation);
+    }
+    
+    /**
+     * Envia LOTE de RPS para emissão de NFSe (ASSINCRONO)
+     * @param array $arps Array contendo de 1 a 2 RPS::class
+     * @param string $lote Número do lote de envio
+     * @return string
+     * @throws \Exception
+     */
+    public function recepcionarLoteRps($arps, $lote)
+    {
+        $operation = 'RecepcionarLoteRps';
+        $no_of_rps_in_lot = count($arps);
+        if ($no_of_rps_in_lot > 50) {
+            throw new \Exception('O limite é de 50 RPS por lote enviado em modo sincrono.');
+        }
+        $content = '';
+        foreach ($arps as $rps) {
+            $rps->config($this->config);
+            $content .= $rps->render();
+        }
+        $contentmsg = "<EnviarLoteRpsEnvio xmlns=\"{$this->wsobj->msgns}\">"
+            . "<LoteRps Id=\"lote{$lote}\" versao=\"{$this->wsobj->version}\">"
+            . "<NumeroLote>$lote</NumeroLote>"
+            . "<CpfCnpj>"
+            . "<Cnpj>{$this->config->cnpj}</Cnpj>"
+            . "</CpfCnpj>"
+            . "<InscricaoMunicipal>" . $this->config->im . "</InscricaoMunicipal>"
+            . "<QuantidadeRps>$no_of_rps_in_lot</QuantidadeRps>"
+            . "<ListaRps>"
+            . $content
+            . "</ListaRps>"
+            . "</LoteRps>"
+            . "</EnviarLoteRpsEnvio>";
+        $content = Signer::sign(
+            $this->certificate,
+            $contentmsg,
+            'InfDeclaracaoPrestacaoServico',
+            'Id',
+            OPENSSL_ALGO_SHA1,
+            [true,false,null,null],
+            'Rps'
+        );
+        $content = Signer::sign(
+            $this->certificate,
+            $content,
+            'LoteRps',
+            'Id',
+            OPENSSL_ALGO_SHA1,
+            [true,false,null,null],
+            'EnviarLoteRpsEnvio'
+        );
+        $content = str_replace(
+            ['<?xml version="1.0"?>', '<?xml version="1.0" encoding="UTF-8"?>'],
+            '',
+            $content
+        );
         Validator::isValid($content, $this->xsdpath);
         return $this->send($content, $operation);
     }
@@ -359,10 +481,23 @@ class Tools extends BaseTools
     {
         $operation = "GerarNfse";
         $rps->config($this->config);
-        $xmlsigned = $this->sign($rps->render(), 'InfDeclaracaoPrestacaoServico', 'Id');
         $content = "<GerarNfseEnvio xmlns=\"{$this->wsobj->msgns}\">"
-            . $xmlsigned
+            . $rps->render()
             . "</GerarNfseEnvio>";
+        $content = Signer::sign(
+            $this->certificate,
+            $content,
+            'InfDeclaracaoPrestacaoServico',
+            'Id',
+            OPENSSL_ALGO_SHA1,
+            [true,false,null,null],
+            'Rps'
+        );
+        $content = str_replace(
+            ['<?xml version="1.0"?>', '<?xml version="1.0" encoding="UTF-8"?>'],
+            '',
+            $content
+        );
         Validator::isValid($content, $this->xsdpath);
         return $this->send($content, $operation);
     }
