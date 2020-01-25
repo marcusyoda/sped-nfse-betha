@@ -75,12 +75,7 @@ class Signer
             $algorithm,
             $canonical
         );
-        if ($tagname == 'LoteRps') {
-            //header("Content-type: text/xml");
-            //echo $dom->saveXML($dom->documentElement);
-            //die;
-        }
-        return "" . $dom->saveXML($dom->documentElement);
+        return $dom->saveXML($dom->documentElement);
     }
     
     /**
