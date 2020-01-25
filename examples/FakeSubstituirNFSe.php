@@ -105,7 +105,7 @@ try {
     
     $numero_cancelar = '2018'; //numero de NFSe anterior que será cancelada e substitituida pelo novo RPS
     
-    $response = $tools->substituirNfse($numero_rps_cancelar, $rps, $tools::CANCEL_ERRO_EMISSAO);
+    $response = $tools->substituirNfse($numero_cancelar, $rps, $tools::CANCEL_ERRO_EMISSAO);
 
     echo FakePretty::prettyPrint($response, '');
     
