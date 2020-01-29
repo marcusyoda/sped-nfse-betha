@@ -45,9 +45,9 @@ class Tools extends BaseTools
     
     /**
      * Solicita o cancelamento de NFSe (SINCRONO)
-     * @param string $id
      * @param integer $numero
      * @param integer $codigo
+     * @param string $id
      * @return string
      */
     public function cancelarNfse($numero, $codigo = self::CANCEL_ERRO_EMISSAO, $id = null)
