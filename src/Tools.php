@@ -50,8 +50,11 @@ class Tools extends BaseTools
      * @param integer $codigo
      * @return string
      */
-    public function cancelarNfse($id, $numero, $codigo = self::CANCEL_ERRO_EMISSAO)
+    public function cancelarNfse($numero, $codigo = self::CANCEL_ERRO_EMISSAO, $id = null)
     {
+        if (empty($id)) {
+            $id = $numero;
+        }
         $operation = 'CancelarNfse';
         $pedido = "<Pedido>"
             . "<InfPedidoCancelamento Id=\"$id\">"
