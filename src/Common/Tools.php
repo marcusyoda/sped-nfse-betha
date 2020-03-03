@@ -111,11 +111,6 @@ class Tools
             $mark
         );
         return $xml;
-        //$dom = new Dom('1.0', 'UTF-8');
-        //$dom->preserveWhiteSpace = false;
-        //$dom->formatOutput = false;
-        //$dom->loadXML($xml);
-        //return $dom->saveXML($dom->documentElement);
     }
     
     /**
