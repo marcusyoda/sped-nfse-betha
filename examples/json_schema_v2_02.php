@@ -248,7 +248,7 @@ $jsonSchema = '{
                         "codigomunicipio": {
                             "required": false,
                             "type": ["string","null"],
-                            "pattern": "^[0-9]{7}"
+                            "pattern": "^[0-9]{7}$"
                         },
                         "uf": {
                             "required": false,
@@ -258,12 +258,12 @@ $jsonSchema = '{
                         "codigopais": {
                             "required": false,
                             "type": ["string","null"],
-                            "pattern": "^[0-9]{4}"
+                            "pattern": "^[0-9]{4}$"
                         },
                         "cep": {
                             "required": true,
                             "type": "string",
-                            "pattern": "^[0-9]{8}"
+                            "pattern": "^[0-9]{8}$"
                         }
                     }
                 }
@@ -276,12 +276,12 @@ $jsonSchema = '{
                 "cnpj": {
                     "required": false,
                     "type": ["string","null"],
-                    "pattern": "^[0-9]{14}"
+                    "pattern": "^[0-9]{14}$"
                 },
                 "cpf": {
                     "required": false,
                     "type": ["string","null"],
-                    "pattern": "^[0-9]{11}"
+                    "pattern": "^[0-9]{11}$"
                 },
                 "inscricaomunicipal": {
                     "required": false,
